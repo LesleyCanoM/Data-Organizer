@@ -7,3 +7,30 @@
 
 <b>Replit</b>
 
+
+<h2>Program Walk-through:</h2>
+
+<p align="center">
+Launch the program and open files: <br/>
+<img src="https://imgur.com/h8b2Ool.png" height "80%" width "80%" alt="Game Launch"/>
+<br />
+<br />
+Input file data is read and processed: <br/>
+<img src="https://imgur.com/kOn0liv.png" height="80%" width="80%" alt="User Input"/>
+<br />
+<br />
+Computer makes a random choice: <br/>
+<img src="https://imgur.com/6GEIjvw.png" height="80%" width="80%" alt="Computer Choice"/>
+<br />
+<br />
+Results of the round are displayed: <br/>
+<img src="https://imgur.com/k6zGySM.png" height="80%" width="80%" alt="Round Results"/>
+<br />
+<br />
+User opts for a rematch or exits: <br/>
+<img src="https://imgur.com/5l5T1KC.png" height="80%" width="80%" alt="Rematch Prompt"/>
+<br />
+<br />
+Game session ends with a thank-you message: <br/>
+<img src="https://imgur.com/m475mIU.png" height="80%" width="80%" alt="End of Game"/>
+</p>
