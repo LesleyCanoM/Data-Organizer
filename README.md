@@ -14,12 +14,14 @@
 <p align="center">
 <b>Step 1: Launch the program and open files</b> <br/>
 The program opens the input file and prepares for data processing. The input file must contain numerical data for the program to process. <br/>
-<img src="https://imgur.com/BO99iQb.png" height="80%" width="80%" alt="File Data Steps"/>
+<img src="https://imgur.com/R2hne1F.png" height="80%" width="80%" alt="File Data Steps"/>
 <br/><br/>
 <p align="center">
 <b>Step 2: Data is read and processed</b> <br/>
 The program reads data line by line, calculates the highest, lowest, sum, and average values. <br/>
-<img src="https://imgur.com/Isk2ijh.png" height="80%" width="80%" alt="File Data Steps"/>
+<img src="https://imgur.com/2DKmHl1.png" height="80%" width="80%" alt="File Data Steps"/>
+<img src="https://imgur.com/vjHIipM.png" height="80%" width="80%" alt="File Data Steps"/>
+<img src="https://imgur.com/fNkU1Wt.png" height="80%" width="80%" alt="File Data Steps"/>
 <br/><br/>
 <p align="center">
 <b>Step 3: Results are written to the output file</b> <br/>
